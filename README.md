@@ -5,5 +5,3 @@ Reproduced method of training word embedding in the paper <Distributed Represent
   
 Implement the Skip-gram model and use the objective function of noise contrastive sampling in the paper.
 
-Organized according to Mr. Zeweichu's course.
-
